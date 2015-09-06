@@ -1,3 +1,4 @@
 # house
 first repo
-random new project(learning curb)
+
+random new project(for learning)
